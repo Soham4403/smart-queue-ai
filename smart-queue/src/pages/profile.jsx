@@ -107,7 +107,7 @@ export default function Profile() {
             loading={loading}
           />
 
-          <section className="glass-panel rounded-[2rem] p-6 md:p-7">
+          <section className="glass-panel rounded-4xl p-6 md:p-7">
             <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
               <div>
                 <p className="theme-kicker">Edit profile</p>
