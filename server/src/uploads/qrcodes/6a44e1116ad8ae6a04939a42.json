@@ -1,0 +1,5 @@
+{
+  "qrToken": "152d533c-0196-4e0e-aff1-dba3515583f6",
+  "qrPayload": "{\"type\":\"smartqueue-appointment\",\"qrToken\":\"152d533c-0196-4e0e-aff1-dba3515583f6\",\"patientId\":\"6a44dd949707c8866895b219\",\"doctorId\":\"69e1da0b9bc9bcd15fdfc091\",\"appointmentDate\":\"2026-07-10\",\"appointmentTime\":\"10:00 AM\"}",
+  "appointmentId": "6a44e1116ad8ae6a04939a42"
+}

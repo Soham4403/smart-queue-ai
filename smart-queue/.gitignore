@@ -1,0 +1,28 @@
+# Dependencies
+**/node_modules/
+
+# Build
+**/dist/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Generated
+outputs/
+temp-build/
+temp-carousel-build/
+temp-hero-build/
+temp-hero-clean-build/
+temp-hero-fix-build/
+temp-hero-fix-build-2/
+temp-hero-fix-build-3/
+temp-hero-fix-build-4/
+temp-motion-build/
+temp-toast-fix-build/

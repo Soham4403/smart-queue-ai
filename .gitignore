@@ -1,0 +1,32 @@
+# Dependencies
+**/node_modules/
+
+# Build folders
+**/dist/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Generated folders
+outputs/
+**/temp-build/
+**/temp-carousel-build/
+**/temp-hero-build/
+**/temp-hero-clean-build/
+**/temp-hero-fix-build*/
+**/temp-motion-build/
+**/temp-toast-fix-build/
+
+# Logs
+*.log
+backend.log
+backend-error.log
+
+server/src/config/firebase-service-account.JSON

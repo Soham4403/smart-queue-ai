@@ -1,0 +1,10 @@
+{
+  "appointmentId": "6a44e1116ad8ae6a04939a42",
+  "patientName": "David Roy",
+  "doctorName": "Dr. Strange",
+  "date": "2026-07-10",
+  "time": "10:00 AM",
+  "amount": 500,
+  "paymentStatus": "paid",
+  "createdAt": "2026-07-01T09:42:41.351Z"
+}
